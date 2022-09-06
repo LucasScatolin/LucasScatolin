@@ -6,9 +6,6 @@
   </div>
   
   <div align="center">
-    <a href="https://www.instagram.com/lucas.scatolin" target="_blank">
-      <img width="30%" src="./images/github-insta.svg"/>
-    </a>
     <a href="https://www.linkedin.com/in/lucas-scatolin" target="_blank">
       <img width="30%" src="./images/github-linkedin.svg"/>
     </a>
